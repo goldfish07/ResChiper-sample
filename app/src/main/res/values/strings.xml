@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ResChiperSample</string>
+
+    <string name="default_web_client_id">sampleResChiperTest</string>
+    <string name="firebase_database_url">https://firebase.com.dsdsd.</string>
+    <string name="gcm_defaultSenderId">sdhsdgsd=sdsds8sds5dsd</string>
+    <string name="google_api_key">ksnsdsndnkkjnkj2328932j2o20909(**dfdjbkb89832974</string>
+    <string name="google_app_id">golldfdknskdllnfncvkj</string>
+    <string name="google_crash_reporting_api_key">dnbdhjdjvjhxgdfwscvjbdshgwjhgfedghhf</string>
+    <string name="google_storage_bucket">dfjhduydgfuyevchrgffgvuygr</string>
+    <string name="project_id">com.google.goldfish07.code</string>
+    <string name="com.crashlytics.android.build_id">dsdsdsdsdsdsd</string>
+
+    <string name="no_entry">No entry</string>
 </resources>
